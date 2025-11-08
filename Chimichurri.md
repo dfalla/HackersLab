@@ -21,7 +21,7 @@ sudo nmap -sVC --min-rate 6000 -p53,88,135,139,389,445,464,593,636,3268,3269,598
 
 Como tengo el servicio de SMB enumero recursos compartidos con el usuario invitado
 
-smbmap -h 192.168.5.191 -u invitado
+smbmap -H 192.168.5.191 -u invitado
 
 ![alt text](image-4.png)
 
