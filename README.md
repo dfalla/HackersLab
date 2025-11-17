@@ -4,4 +4,4 @@
 
 ### Ejemplo
 
-    rama lower -> writeup Fruits.md
+    rama Fruits -> writeup Fruits.md
